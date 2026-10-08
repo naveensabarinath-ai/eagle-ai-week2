@@ -159,6 +159,8 @@ ENV/
 env.bak/
 venv.bak/
 
+my_vector_store/
+
 # Spyder project settings
 .spyderproject
 .spyproject
